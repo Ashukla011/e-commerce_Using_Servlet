@@ -1,0 +1,13 @@
+com\ecommerce\myfactory\FactoryProvider.class
+com\ecommerce\dao\CategoryDao.class
+com\ecommerce\myfactory\Demo.class
+com\ecommerce\myfactory\ProductDescTrimmer.class
+com\ecommerce\entities\User.class
+com\ecommerce\servlets\Login.class
+com\ecommerce\servlets\Register.class
+com\ecommerce\entities\Category.class
+com\ecommerce\dao\ProductDao.class
+com\ecommerce\servlets\Logout.class
+com\ecommerce\entities\Products.class
+com\ecommerce\servlets\ProductOperationServlet.class
+com\ecommerce\dao\UserDao.class
